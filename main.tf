@@ -1,5 +1,3 @@
-# gh repo create hands-on-lab-create-ec2-s3-via-terraform-and-github-actions-oidc --public --source=. --remote=upstream
-
 provider "aws" {
   region = "us-east-1"
 
